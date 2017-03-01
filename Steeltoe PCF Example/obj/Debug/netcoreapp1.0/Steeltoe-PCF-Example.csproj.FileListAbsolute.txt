@@ -1,0 +1,8 @@
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/bin/Debug/netcoreapp1.0/Steeltoe-PCF-Example.deps.json
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/bin/Debug/netcoreapp1.0/Steeltoe-PCF-Example.runtimeconfig.json
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/bin/Debug/netcoreapp1.0/Steeltoe-PCF-Example.runtimeconfig.dev.json
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/bin/Debug/netcoreapp1.0/Steeltoe-PCF-Example.dll
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/bin/Debug/netcoreapp1.0/Steeltoe-PCF-Example.pdb
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/obj/Debug/netcoreapp1.0/Steeltoe-PCF-Example.AssemblyInfo.cs
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/obj/Debug/netcoreapp1.0/Steeltoe-PCF-Example.dll
+/Users/dawu/Workspace/Training/dotNet/steeltoeCFS/Steeltoe PCF Example/obj/Debug/netcoreapp1.0/Steeltoe-PCF-Example.pdb

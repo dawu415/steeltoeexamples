@@ -1,0 +1,10 @@
+---
+applications:
+- name: steeltoe-pcf-example
+  memory: 512M
+  disk_quota: 1G
+  random-route: true
+  path: .
+  buildpack: https://github.com/cloudfoundry-community/dotnet-core-buildpack
+  services:
+    - config-server
